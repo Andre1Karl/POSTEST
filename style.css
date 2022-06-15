@@ -1,0 +1,35 @@
+head{
+	background-color: white;
+}
+#header{
+	background-color: rgba(152,251,152, 0.2);
+	padding: 20px 0 20px 0;
+}
+#home{
+	width: 100px;
+	height: 100px;
+}
+#list{
+	padding: 30px 0 0 0;
+}
+#header-list li{
+	list-style-type: none;
+	display: inline;
+	padding: 0 22px 0 22px;
+}
+#header-list li a{
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 25px;
+	color: black;
+}
+#products{
+	padding: 30px 0 30px 0;
+}
+#images{
+	width: 287px;
+	height: 250px;
+}
+#purchase{
+	padding: 85px 0 0 0;
+}
